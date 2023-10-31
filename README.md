@@ -1,8 +1,6 @@
-# SimpleJavaPrograms
-SimpleJavaPrograms
+# JavaPrograms
+JavaPrograms
 
 
-Hello I am Deepti.
-
-These are the java prgs written by me while I was learning Java
+These are the java progams written by me while I was learning Java
 
